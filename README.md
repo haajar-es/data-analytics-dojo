@@ -21,23 +21,28 @@ The repository is organized into folders, each representing a different project 
    * In this project, I've performed exploratory data analysis (EDA) for international debt data collected by The World Bank.
    * **Skills applied:** SQL, Python, Pandas, Data Cleaning
    * **Key concepts:** Analyzing the global debt landscape, highlighting the scale of international debt and identifying key countries and debt categories that dominate the global economic scenario.
+  
+2. [European Soccer Data Manipulation](european-soccer-data-manipulation)
+   * The case study showcases skills in data manipulation, complex queries, and window functions using SQL
+   * **Skills applied:** SQL, Data Manipulation (CTEs, CASE Statements, JOIN operations, WINDOW functions)
+   * **Key concepts:** This analysis demonstrates proficiency in using advanced SQL techniques to extract meaningful insights from complex datasets.
 
-2. [Exploring Hacker New Posts](exploring-hacker-new-posts)
+3. [Exploring Hacker New Posts](exploring-hacker-new-posts)
    * In this project, I've performed exploratory data analysis (EDA) on Hacker News posts.
    * **Skills applied:** Python, Pandas, Data Cleaning
    * **Key concepts:** Handling large datasets, analyzing trends in online posts.
   
-3. [Hacker News Pipeline](hacker-news-pipeline)
+4. [Hacker News Pipeline](hacker-news-pipeline)
    * This folder contains a data pipeline built for ingesting and analyzing Hacker News posts.
    * **Skills applied:** SQL, Data Pipelines, ETL, Python, Data Extraction and Transformation.
    * **Key concepts:** Automating the collection of data, building efficient data pipelines for continuous updates.
 
-4. [Outliers Detection](outliers-detection)
+5. [Outliers Detection](outliers-detection)
    * This project focuses on detecting outliers in healthcare datasets.
    * **Skills applied:** Python (Pandas, NumPy, Seaborn, Matplotlib, Scipy, sklearn), Outlier Detection Techniques
    * **Key concepts:** Identifying anomalies, handling skewed data distributions, applying machine learning to identified outliers.
   
-5. [Student Performance Analysis](student-performance-analysis)
+6. [Student Performance Analysis](student-performance-analysis)
    * An analysis of student performance based on various factors.
    * **Skills applied:** EDA, Data Visualization, Statistical Analysis
    * **Key concepts:** Creating visual reports to track performance trends, insights into education data.
