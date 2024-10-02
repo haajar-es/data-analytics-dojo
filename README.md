@@ -53,9 +53,12 @@ This repository is designed to apply and improve skills in various tools and lan
 * Excel (for quick data manipulation and visualization)
 * Outlier Detection and handling of messy, real-world data.
 
+## Acknowledgements
+
+Credits to the course instructors (if any), and any resources used.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
-
-**Lifelong Learner!** 🚀
+✨ _**Feel free to explore this repository. Lifelong Learner!**_ 
