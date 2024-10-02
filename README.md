@@ -1,4 +1,4 @@
-# Data Analytics Dojo 🧠📊
+# Data Analytics Dojo 🚀
 
 **Welcome to the Data Analytics Dojo!** This repository is dedicated to continuous learning and growth in the world of data analytics. This dojo serves as a collection of assignments, projects, tutorials, and case studies covering a broad range of topics and tools.
 
