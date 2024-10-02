@@ -57,4 +57,4 @@ This repository is designed to apply and improve skills in various tools and lan
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-**Let’s continue learning together, one dataset at a time!** 🚀
+**Lifelong Learner!** 🚀
