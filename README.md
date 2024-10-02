@@ -55,6 +55,7 @@ This repository is designed to apply and improve skills in various tools and lan
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+
 
 **Lifelong Learner!** 🚀
