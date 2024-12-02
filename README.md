@@ -6,7 +6,6 @@
 This repository is a personal journey of learning and exploring various data analytics topics, from exploratory data analysis (EDA) and data visualization to advanced topics like outlier detection and building data pipelines. It includes practical applications of popular tools and languages such as:
 
 * SQL
-* Power BI
 * Excel
 * Python
 * Jupyter Notebooks
@@ -47,7 +46,7 @@ The repository is organized into folders, each representing a different project 
    * **Skills applied:** EDA, Data Visualization, Statistical Analysis
    * **Key concepts:** Creating visual reports to track performance trends, insights into education data.
 
-## Tools and Skills Covered
+## Technical Skills Covered
 This repository is designed to apply and improve skills in various tools and languages essential for data analytics, including but not limited to:
 
 * Exploratory Data Analysis (EDA)
