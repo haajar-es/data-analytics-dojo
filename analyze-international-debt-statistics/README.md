@@ -3,7 +3,6 @@
 ## Project Overview
 This project analyzes international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. The analysis aims to answer key questions about global debt and provide insights into economic trends.
 
-
 ## Objectives
 - Calculate the total amount of debt owed by countries in the dataset
 - Identify the country with the highest debt and its amount.
@@ -13,7 +12,6 @@ This project analyzes international debt data collected by The World Bank. The d
 ## Tools and Technologies
 - SQL (PostgreSQL)
 - Jupyter Notebook
-- Python (for data manipulation and analysis)
 
 ## Data Source
 The data used in this project is from [The World Bank](https://www.worldbank.org/en/home)'s international debt statistics database.. 
