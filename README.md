@@ -45,12 +45,17 @@ The repository is organized into folders, each representing a different project 
    * An analysis of student performance based on various factors.
    * **Skills applied:** EDA, Data Visualization, Statistical Analysis
    * **Key concepts:** Creating visual reports to track performance trends, insights into education data.
+  
+7. [Northwind Traders EDA](northwind-traders-exploratory-data-analysis)
+   - Performed comprehensive data analysis on Northwind Traders, an international gourmet food distributor, examining sales patterns, customer behavior, and product performance.
+   * **Skills applied:** SQL, Data Manipulation (CTEs, WINDOW functions), EDA, Data Visualization
+   * **Key concepts:** Analysis of sales metrics, customer behavior, and product performance to optimize business operations and identify growth opportunities in a gourmet food distribution company.
 
 ## Technical Skills Covered
 This repository is designed to apply and improve skills in various tools and languages essential for data analytics, including but not limited to:
 
 * Exploratory Data Analysis (EDA)
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas, NumPy, Matplotlib, Plotly, Seaborn)
 * SQL (for querying and transforming data)
 * Data Pipelines (Building automated workflows)
 * Data Visualization (using Matplotlib, Seaborn, Power BI)
