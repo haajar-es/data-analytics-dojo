@@ -22,7 +22,10 @@ The analysis works with the standard Northwind database schema, which includes t
 
 ![db schema](img/db-schema.png)
 
-## Detailed Analysis
+## Notebook
+View notebook with detailed at [here](https://github.com/haajar-es/data-analytics-dojo/blob/main/northwind-traders-exploratory-data-analysis/notebook/Exploratory%20Analysis%20for%20Northwind%20Traders.ipynb).
+
+## Key Analysis
   
 ### 1. Employee Sales Performance
 
@@ -344,3 +347,6 @@ Based on the top products per category analysis chart, here are 3 main points:
 2. Ensure you have Jupyter Notebook installed
 3. Install required Python dependencies
 4. Open the notebook in Jupyter Lab/Notebook environment
+
+<br><hr>
+[🔼 Back to top](#northwind-traders-exploratory-data-analysis)
