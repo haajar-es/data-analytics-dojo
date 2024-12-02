@@ -1,4 +1,4 @@
-# Case Study: Data Manipulation with SQL - Manchester United's 2014/2015 Season Analysis
+# Data Manipulation with SQL - Manchester United's 2014/2015 Season Analysis
 
 ## Overview
 This case study demonstrates advanced SQL techniques to analyze Manchester United's performance during the 2014/2015 English Premier League season. The project showcases skills in data manipulation, complex queries, and window functions using SQL.

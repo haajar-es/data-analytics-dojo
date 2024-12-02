@@ -1,6 +1,5 @@
 # Outliers Detection Healthcare Services Co.
 
-
 - [Outliers Detection Healthcare Services Co.](#outliers-detection-healthcare-services-co)
   - [Project Overview](#project-overview)
   - [Project Description](#project-description)

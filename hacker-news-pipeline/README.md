@@ -1,4 +1,4 @@
-# Project: Hacker News Pipeline
+# Hacker News Pipeline
 
 ## Overview
 
